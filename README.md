@@ -1,6 +1,6 @@
 # ERIC
 
-**Evolving Representation of Individual Continuity**
+## Evolving Representation of Individual Continuity
 
 ERIC is a lifelong personal AI apprentice designed to learn one specific person over many years.
 
