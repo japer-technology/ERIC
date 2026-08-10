@@ -1,26 +1,17 @@
 # ERIC
 
-## Evolving Representation of Individual Continuity
+## Evolving Record of Identity and Cognition
 
-ERIC is a lifelong personal AI apprentice designed to learn one specific person over many years.
+* **Evolving:** continuously develops as the individual learns, experiences, decides, and changes over time.
+* **Record:** preserves an attributable and verifiable history rather than merely generating a simulation of the individual.
+* **Identity:** captures the characteristics, relationships, experiences, preferences, values, and history that distinguish one individual from another.
+* **Cognition:** captures how the individual understands, reasons, evaluates, remembers, decides, and responds.
 
-It continuously builds a structured, evidence-backed model of that person’s memories, beliefs, values, relationships, preferences, reasoning patterns, communication style and decision-making process through observation, conversation, questioning and deliberate correction.
-
-The long-term goal is not merely to create an AI that sounds like someone.
-
-The goal is to create an authorised, longitudinal simulation of a person that has spent years learning from them while they are alive.
-
-> The important idea is not an AI that talks like you after you die.
->
-> It is an AI that spends years being corrected by you while you are alive.
+**ERIC is an evolving record of who a person is, what they know, and how they think.**
 
 ---
 
 ## What ERIC Is
-
-ERIC is a Personal Continuity Intelligence.
-
-Each ERIC instance belongs to one person.
 
 It begins as an apprentice.
 
