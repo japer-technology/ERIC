@@ -9,6 +9,9 @@
 
 **ERIC is an evolving record of who a person is, what they know, and how they think.**
 
+> [!WARNING]
+> This is pre-alpha. It is not yet conformant or safe for real execution.
+
 ---
 
 ## What ERIC Is
